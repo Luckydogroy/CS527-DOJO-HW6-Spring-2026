@@ -15,9 +15,9 @@ modules:
       - id: juniorust
         name: juniorust
 
-  - id: juniorust_patched
-    name: juniorust_patched
+  - id: juniorust-patched
+    name: juniorust-patched
     image: adamdoupe/cowsay
     challenges:
-      - id: juniorust_patched
-        name: juniorust_patched
+      - id: juniorust-patched
+        name: juniorust-patched
