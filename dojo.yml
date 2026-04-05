@@ -1,6 +1,6 @@
 id: cs527dojohw6
 
-name: CS527-Dojo-HW6
+name: CS527-Dojo-HW6-Spring-2026
 
 type: homework
 
@@ -14,3 +14,10 @@ modules:
     challenges:
       - id: juniorust
         name: juniorust
+
+  - id: juniorust_patched
+    name: juniorust_patched
+    image: adamdoupe/cowsay
+    challenges:
+      - id: juniorust_patched
+        name: juniorust_patched
